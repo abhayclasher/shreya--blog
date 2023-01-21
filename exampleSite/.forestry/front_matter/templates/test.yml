@@ -2,3 +2,5 @@
 label: test
 hide_body: true
 fields: []
+pages:
+- exampleSite/content/blog/test.md
