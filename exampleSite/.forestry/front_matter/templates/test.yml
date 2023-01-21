@@ -1,6 +1,16 @@
 ---
 label: test
 hide_body: true
-fields: []
+fields:
+- name: test
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: test
+  description: " test test testtest testtest testtesttesttesttesttesttesttesttestvtesttesttesttestv"
 pages:
 - exampleSite/content/blog/test.md
