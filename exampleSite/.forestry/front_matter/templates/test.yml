@@ -14,3 +14,4 @@ fields:
   description: " test test testtest testtest testtesttesttesttesttesttesttesttestvtesttesttesttestv"
 pages:
 - exampleSite/content/blog/test.md
+- exampleSite/content/blog/test/testwell.md
